@@ -16,7 +16,7 @@
     - mysql : 8.0.26
     - maven : 3.8.4
     - mybatis : 3.5.9
-    - request : 127.0.0.1:8080/crm
+    - request : http://127.0.0.1:8080/crm
 
 ### 项目特点
 
